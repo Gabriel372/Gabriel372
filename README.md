@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:"Hello world!"
 💻 Sou Desenvolvedor Front end<br>
-
+💪🏽 atualmenete aperfeicoando minhas habilidades com  React js
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gabrielbrandao9923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-brand%C3%A3o-42174223a/) 
 
