@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Sou estudante de Front end<br>🔭 Procuro vaga de Estágio
+💻 Sou Desenvolvedor Front end<br>🔭 Procuro vaga de Estágio
 
 
 ## 🌐 Socials:
